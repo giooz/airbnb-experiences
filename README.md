@@ -6,4 +6,4 @@ In this project, I learned more about the reusability of a React component, with
 
 Finally, I also learned how to create a local React project using the 'npx create-react-app'.
 
-<img src="../images/final-page.png" />
+<img src="https://raw.githubusercontent.com/giooz/airbnb-experiences/main/public/images/final-page.png" />
