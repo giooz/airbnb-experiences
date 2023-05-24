@@ -23,7 +23,7 @@ export default function Card(props) {
           className="card--star"
         />
         <span>{props.item.stats.rating.toFixed(1)}&nbsp; </span>
-        <span className="gray">({props.item.stats.reviewCount}) •:&nbsp;</span>
+        <span className="gray">({props.item.stats.reviewCount}) •&nbsp;</span>
         <span className="gray">{props.item.location}</span>
       </div>
       <p>{props.item.title}</p>
